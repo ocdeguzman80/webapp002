@@ -1,0 +1,15 @@
+{
+  "name": "html5responsive002",
+  "version": "1.0.0",
+  "description": "A version 2 example of a responsive website",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "OhmPortal",
+  "license": "ISC",
+  "homepage": "https://github.com/ocdeguzman80/webapp002",
+  "dependencies": {
+    "gh-pages": "^1.2.0"
+  }
+}
